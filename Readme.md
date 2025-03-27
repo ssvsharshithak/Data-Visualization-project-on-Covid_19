@@ -1,6 +1,6 @@
-HW 8, CS 625, spring 2023
+CS 625
 ================
-Sri Sai Venkata Sri Harshitha Kukkala
+Vikas Varma jukuri
 April 20, 2023
 
 ## **Step 1: Choose a Dataset**
